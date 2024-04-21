@@ -1,0 +1,7 @@
+.note_box{
+  height: 75px;
+  width: 300px;
+  background-color: bisque;
+  text-align: center;
+  cursor: move;
+}
